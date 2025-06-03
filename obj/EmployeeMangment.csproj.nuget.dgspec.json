@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohamed Mousa\\source\\repos\\EmployeeMangment\\EmployeeMangment\\EmployeeMangment.csproj": {}
+    "C:\\Users\\A714apulia\\Desktop\\E-commerce\\employee-mangment-system\\EmployeeMangment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohamed Mousa\\source\\repos\\EmployeeMangment\\EmployeeMangment\\EmployeeMangment.csproj": {
+    "C:\\Users\\A714apulia\\Desktop\\E-commerce\\employee-mangment-system\\EmployeeMangment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed Mousa\\source\\repos\\EmployeeMangment\\EmployeeMangment\\EmployeeMangment.csproj",
+        "projectUniqueName": "C:\\Users\\A714apulia\\Desktop\\E-commerce\\employee-mangment-system\\EmployeeMangment.csproj",
         "projectName": "EmployeeMangment",
-        "projectPath": "C:\\Users\\Mohamed Mousa\\source\\repos\\EmployeeMangment\\EmployeeMangment\\EmployeeMangment.csproj",
-        "packagesPath": "C:\\Users\\Mohamed Mousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed Mousa\\source\\repos\\EmployeeMangment\\EmployeeMangment\\obj\\",
+        "projectPath": "C:\\Users\\A714apulia\\Desktop\\E-commerce\\employee-mangment-system\\EmployeeMangment.csproj",
+        "packagesPath": "C:\\Users\\A714apulia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A714apulia\\Desktop\\E-commerce\\employee-mangment-system\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mohamed Mousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\A714apulia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,6 +58,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.2, )"
             }
           },
           "imports": [
