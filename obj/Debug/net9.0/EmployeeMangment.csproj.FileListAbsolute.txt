@@ -78,3 +78,46 @@ C:\Users\A714apulia\Desktop\E-commerce\employee-mangment-system\obj\Debug\net9.0
 C:\Users\A714apulia\Desktop\E-commerce\employee-mangment-system\obj\Debug\net9.0\Employee.DAFB4142.Up2Date
 C:\Users\A714apulia\Desktop\E-commerce\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.genruntimeconfig.cache
 C:\Users\A714apulia\Desktop\E-commerce\employee-mangment-system\obj\Debug\net9.0\ref\EmployeeMangment.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\appsettings.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\EmployeeMangment.staticwebassets.endpoints.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\EmployeeMangment.exe
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\EmployeeMangment.deps.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\EmployeeMangment.runtimeconfig.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\EmployeeMangment.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\EmployeeMangment.pdb
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.csproj.AssemblyReference.cache
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.AssemblyInfoInputs.cache
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.AssemblyInfo.cs
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.sourcelink.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\scopedcss\bundle\EmployeeMangment.styles.css
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\Employee.DAFB4142.Up2Date
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\refint\EmployeeMangment.dll
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.pdb
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\EmployeeMangment.genruntimeconfig.cache
+C:\Users\Mohamed Mousa\source\repos\EmployeeMangment\EmployeeMangment\employee-mangment-system\obj\Debug\net9.0\ref\EmployeeMangment.dll

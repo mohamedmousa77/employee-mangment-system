@@ -986,23 +986,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\A714apulia\\.nuget\\packages\\": {},
+    "C:\\Users\\Mohamed Mousa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A714apulia\\Desktop\\E-commerce\\employee-mangment-system\\EmployeeMangment.csproj",
+      "projectUniqueName": "C:\\Users\\Mohamed Mousa\\source\\repos\\EmployeeMangment\\EmployeeMangment\\employee-mangment-system\\EmployeeMangment.csproj",
       "projectName": "EmployeeMangment",
-      "projectPath": "C:\\Users\\A714apulia\\Desktop\\E-commerce\\employee-mangment-system\\EmployeeMangment.csproj",
-      "packagesPath": "C:\\Users\\A714apulia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A714apulia\\Desktop\\E-commerce\\employee-mangment-system\\obj\\",
+      "projectPath": "C:\\Users\\Mohamed Mousa\\source\\repos\\EmployeeMangment\\EmployeeMangment\\employee-mangment-system\\EmployeeMangment.csproj",
+      "packagesPath": "C:\\Users\\Mohamed Mousa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mohamed Mousa\\source\\repos\\EmployeeMangment\\EmployeeMangment\\employee-mangment-system\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\A714apulia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mohamed Mousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1011,7 +1011,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
